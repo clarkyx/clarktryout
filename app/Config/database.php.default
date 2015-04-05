@@ -71,10 +71,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'user',
-		'password' => 'password',
-		'database' => 'database_name',
+		'host' => 'us-cdbr-azure-west-a.cloudapp.net',
+		'login' => 'b6e254c1d4b758',
+		'password' => '3d26d338',
+		'database' => 'clarkdb',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
